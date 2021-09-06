@@ -5,6 +5,6 @@ node default {
     owner   => 'root',
   }
 }
-node 'master.puppet.vm' {
+node 'sytev789.trading.imc.intra' {
   include role::master_server
 }
